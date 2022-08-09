@@ -245,13 +245,13 @@
   }
   .sec1 img {
     max-width: 100%;
-    width: 34%;
+    width: 100%;
     min-height: 430px;
     height: 0;
   }
   .sec2 img {
     max-width: 100%;
-    width: -webkit-fill-available;
+    width: 100%;
     min-height: 485px;
     height: 0;
     object-fit: cover;
